@@ -12,6 +12,15 @@
 		FD34C67E223A1260004D97C3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD34C67C223A1260004D97C3 /* Main.storyboard */; };
 		FD34C680223A1266004D97C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD34C67F223A1266004D97C3 /* Assets.xcassets */; };
 		FD34C683223A1266004D97C3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD34C681223A1266004D97C3 /* LaunchScreen.storyboard */; };
+		FD34C68B223A1A68004D97C3 /* addmenubarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD34C68A223A1A68004D97C3 /* addmenubarViewController.swift */; };
+		FD34C68D223A1AA1004D97C3 /* menuTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD34C68C223A1AA1004D97C3 /* menuTableViewCell.swift */; };
+		FD47EBF7223C200F00D32C19 /* informationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD47EBF6223C200F00D32C19 /* informationViewController.swift */; };
+		FD984E5B223A9DE4007BD745 /* BooklistViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD984E5A223A9DE4007BD745 /* BooklistViewController.swift */; };
+		FD984E5D223A9E11007BD745 /* BooklistTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD984E5C223A9E11007BD745 /* BooklistTableViewCell.swift */; };
+		FDA33EB32258F20F0085AA74 /* topratedCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA33EB22258F20E0085AA74 /* topratedCollectionViewCell.swift */; };
+		FDA33EB52258F26B0085AA74 /* topViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDA33EB42258F26B0085AA74 /* topViewController.swift */; };
+		FDD4D640225A3E8E00F28258 /* topphotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDD4D63F225A3E8E00F28258 /* topphotoViewController.swift */; };
+		FDD4D642225A3F0100F28258 /* topphotoCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDD4D641225A3F0100F28258 /* topphotoCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +31,15 @@
 		FD34C67F223A1266004D97C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FD34C682223A1266004D97C3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FD34C684223A1266004D97C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FD34C68A223A1A68004D97C3 /* addmenubarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = addmenubarViewController.swift; sourceTree = "<group>"; };
+		FD34C68C223A1AA1004D97C3 /* menuTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = menuTableViewCell.swift; sourceTree = "<group>"; };
+		FD47EBF6223C200F00D32C19 /* informationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = informationViewController.swift; sourceTree = "<group>"; };
+		FD984E5A223A9DE4007BD745 /* BooklistViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BooklistViewController.swift; sourceTree = "<group>"; };
+		FD984E5C223A9E11007BD745 /* BooklistTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BooklistTableViewCell.swift; sourceTree = "<group>"; };
+		FDA33EB22258F20E0085AA74 /* topratedCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = topratedCollectionViewCell.swift; sourceTree = "<group>"; };
+		FDA33EB42258F26B0085AA74 /* topViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = topViewController.swift; sourceTree = "<group>"; };
+		FDD4D63F225A3E8E00F28258 /* topphotoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = topphotoViewController.swift; sourceTree = "<group>"; };
+		FDD4D641225A3F0100F28258 /* topphotoCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = topphotoCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +78,15 @@
 				FD34C67F223A1266004D97C3 /* Assets.xcassets */,
 				FD34C681223A1266004D97C3 /* LaunchScreen.storyboard */,
 				FD34C684223A1266004D97C3 /* Info.plist */,
+				FD34C68A223A1A68004D97C3 /* addmenubarViewController.swift */,
+				FD34C68C223A1AA1004D97C3 /* menuTableViewCell.swift */,
+				FD984E5A223A9DE4007BD745 /* BooklistViewController.swift */,
+				FD984E5C223A9E11007BD745 /* BooklistTableViewCell.swift */,
+				FD47EBF6223C200F00D32C19 /* informationViewController.swift */,
+				FDA33EB22258F20E0085AA74 /* topratedCollectionViewCell.swift */,
+				FDA33EB42258F26B0085AA74 /* topViewController.swift */,
+				FDD4D63F225A3E8E00F28258 /* topphotoViewController.swift */,
+				FDD4D641225A3F0100F28258 /* topphotoCollectionViewCell.swift */,
 			);
 			path = Ekushe;
 			sourceTree = "<group>";
@@ -135,8 +162,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD984E5B223A9DE4007BD745 /* BooklistViewController.swift in Sources */,
+				FDD4D642225A3F0100F28258 /* topphotoCollectionViewCell.swift in Sources */,
+				FDD4D640225A3E8E00F28258 /* topphotoViewController.swift in Sources */,
+				FDA33EB52258F26B0085AA74 /* topViewController.swift in Sources */,
 				FD34C67B223A1260004D97C3 /* ViewController.swift in Sources */,
+				FDA33EB32258F20F0085AA74 /* topratedCollectionViewCell.swift in Sources */,
 				FD34C679223A1260004D97C3 /* AppDelegate.swift in Sources */,
+				FD34C68D223A1AA1004D97C3 /* menuTableViewCell.swift in Sources */,
+				FD984E5D223A9E11007BD745 /* BooklistTableViewCell.swift in Sources */,
+				FD47EBF7223C200F00D32C19 /* informationViewController.swift in Sources */,
+				FD34C68B223A1A68004D97C3 /* addmenubarViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
